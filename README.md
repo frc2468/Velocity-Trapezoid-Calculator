@@ -1,1 +1,2 @@
 # Velocity-Trapezoid-Calculator
+Velocity trapezoids are a way to tune a subsystem’s motion, causing it to ramp up at a constant acceleration, keep the same speed for some time, and then ramp back down at the negated constant velocity (essentially creating a trapezoid on the velocity vs. time graph). Given a max acceleration, velocity, and distance to travel, our VI creates a velocity trapezoid and outputs the changing velocity values over time we can use.
